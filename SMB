@@ -1,0 +1,2 @@
+smbclient //10.10.134.144/anonymous -N
+smbclient //10.10.134.144/IPC$ -N
