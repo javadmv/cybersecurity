@@ -1,0 +1,1 @@
+nmap -p 139 --script=smb-enum-shares,smb-enum-users <target>    #for enumerating smb port
